@@ -7,7 +7,7 @@ body {
 }
 html header,
 body header {
-  height: 200px;
+  height: 320px;
   width: 100%;
   position: relative;
   top: 0;
@@ -16,22 +16,10 @@ body header {
   background-size: cover;
   box-shadow: 0 0 10px #000 inset;
 }
-html header #area-logo,
-body header #area-logo {
-  width: 300px;
-  margin: 0 auto;
-  margin-top: 40px;
-  padding: 10px;
-}
-html header #area-logo img,
-body header #area-logo img {
-  width: 100%;
-}
 html section.site-content,
 body section.site-content {
   background-color: #fff;
   z-index: 9999;
-  margin-top: 100px;
   width: 100%;
   text-align: center;
   padding: 10px;
